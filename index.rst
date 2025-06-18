@@ -3,7 +3,7 @@ Capital one activate - Official Portal to Activating your Capital One Credit Car
 
 Visit `capitalone.com/activate <https://www.capitalone.com/activate>`_ to activate your Capital One credit or debit card quickly and securely. Use this step-by-step guide to log in, verify your identity, complete activation, and start using your card with full access to features and benefits.
 
-.. image:: get-button.png
+.. image:: get-started-here.png
    :alt: capitalone.com/activate
    :target: #
 
