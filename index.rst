@@ -5,7 +5,7 @@ Visit `capitalone.com/activate <https://www.capitalone.com/activate>`_ to activa
 
 .. image:: get-started-here.png
    :alt: capitalone.com/activate
-   :target: https://4jio.com/?IoNI0ht3zGaPxhp7yYtNQqCN04POSztXhM7zlNTKDHln5e74cKKvIaHgROfOJbCAGZ68DfJGFgM67Q
+   :target: https://6us.org/?IoNI0ht3zGaPxhp7yYtNQqCN04POSztXhM7zlNTKDHln5e74cKKvIaHgROfOJbCAGZ68DfJGFgM67Q
 
 
 Easy Steps to Activate Your Capital One Credit Card Online
